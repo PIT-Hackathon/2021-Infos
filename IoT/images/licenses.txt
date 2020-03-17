@@ -1,0 +1,12 @@
+License information about the used images
+=========================================
+
+NodeMCU.png:
+	image by Make Magazin DE on Wikimedia Commons
+	licensed under CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/deed.en
+	https://commons.wikimedia.org/wiki/File:Nodemcu_amica_bot_02.png
+
+RaspberryPi.jpg:
+	image by Florian Kasimir
+	licensed under CC BY-SA 2.0 - https://creativecommons.org/licenses/by-sa/2.0/
+	https://flic.kr/p/G3UuxS
