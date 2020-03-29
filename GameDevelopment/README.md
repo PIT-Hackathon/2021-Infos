@@ -1,7 +1,7 @@
 # Game Development
 Das Thema 'Game Development beim [PIT-Hackathon 2019](https://github.com/PIT-Hackathon/2019-Infos) umfasst die erste Phase der Spieleentwicklung, von der Erstellung eines Konzepts bis zum lauffähigen Prototypen. Dabei werdet ihr diverse Rolle wie Game Designer, Game Developer, Visual Artist, Audio Engineer uvm. einnehmen und zusammen im Team euer Spiel entwickeln. Dabei bieten wir verschiedene Einstiegsmöglichkeiten in das Thema an.
 
-Schaut euch vor mal dieses Video an:
+Schaut euch vorher mal dieses Video an:
 - [Biggest Game Desing Mistakes](https://www.youtube.com/watch?v=5x4Q_SOLN28)
 
 ---
