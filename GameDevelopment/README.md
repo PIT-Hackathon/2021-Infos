@@ -20,6 +20,7 @@ Ihr solltet euch auf jeden Fall diese Grundlagen angesehen haben:
 ### Unity
 Entwicklung mit der Unity3d-GameEngine (einer der führenden Entwicklungsumgebungen für kommerzielle Computerspiele). Hier laden wir euch ein mit echter Industrie-Standard-Software euer Ideen umzusetzen. Eingesetzt wird hier die Scriptsprache C#. Diese Sprache findet auch großen Einsatz, bei der Entwicklung von Unternehmmensapplikationen und nicht wenige der am Hackathon beteiligten Unternehmen setzen auf diese Sprache bei der Entwicklung ihrer Software.
 Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich auf den Hackathon vorzubereiten:
+* edX (Harvard) Introduction to Game Development [https://www.edx.org/course/cs50s-introduction-to-game-development]
 * Coursera Game Design Spezialisation [https://www.coursera.org/learn/game-development]
 * Pluralsight Unity [https://www.pluralsight.com/paths/unity-game-development-core-skills]
 * Unity Learn [https://unity3d.com/de/learn]
