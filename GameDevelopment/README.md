@@ -14,25 +14,30 @@ Je nach eueren Fähigkeiten könnt ihr euch, wenn ihr Lust habt (und das sollte 
 #### Unity
 Entwicklung mit der Unity3d-GameEngine (einer der führenden Entwicklungsumgebungen für kommerzielle Computerspiele). Hier laden wir euch ein mit echter Industrie-Standard-Software euer Ideen umzusetzen. Eingesetzt wird hier die Scriptsprache C#. Diese Sprache findet auch großen Einsatz, bei der Entwicklung von Unternehmmensapplikationen und nicht wenige der am Hackathon beteiligten Unternehmen setzen auf diese Sprache bei der Entwicklung ihrer Software.
 
-Ihr solltet euch auf jeden Fall diese Grundlagen angesehen haben:
+##### Links
+- [Ein Spiel an einem Tag erstellen](https://youtu.be/1p5nT2PAOr8)
 - [Unity Interface](https://youtu.be/D7v2pjke5sc)
 - [Unity Scripting](https://learn.unity.com/project/beginner-gameplay-scripting?courseId=5d532306edbc2a1334dd9aa8)
 - [Unity Prefabs](https://youtu.be/H1OkG3a1w-o)
 - [Unity In Depths](https://learn.unity.com/course/teaching-game-design-and-development)
 
-Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich auf den Hackathon vorzubereiten:
-* edX (Harvard) Introduction to Game Development [https://www.edx.org/course/cs50s-introduction-to-game-development]
-* Coursera Game Design Spezialisation [https://www.coursera.org/learn/game-development]
-* Pluralsight Unity [https://www.pluralsight.com/paths/unity-game-development-core-skills]
-* Unity Learn [https://unity3d.com/de/learn]
-* Coursera Preparation for Unity Expert Gameplay Programmer Exam [https://blogs.unity3d.com/2018/05/28/now-available-worldwide-unity-certified-programmer/]
+##### weiterführende Links:
+* [edX (Harvard) Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
+* [Coursera Game Design Spezialisation](https://www.coursera.org/learn/game-development)
+* [Pluralsight Unity](https://www.pluralsight.com/paths/unity-game-development-core-skills)
+* [Unity Learn](https://unity3d.com/de/learn)
+* [Coursera Preparation for Unity Expert Gameplay Programmer Exam](https://blogs.unity3d.com/2018/05/28/now-available-worldwide-unity-certified-programmer/)
 
 
 #### Versionsverwaltung (Git)
 Softwareentwicklung ist eine Teamleistung. Darum ist es notwendig, sich damit vertraut zu machen, wie man den Programmcode im Team gleichzeitig bearbeiten und weiterentwickeln kann. Hier ist **Git** als Tool zur Versionsverwaltung der Industriestandard. Da ihr auf dem Hackathon als Team arbeiten werdet, solltet ihr euch schon ein wenig mit Git befassen. Keine Angst so schwer ist das nicht. Wir geben euch hier ein paar Videos an die Hand, mit Ihr euch in die Grundlagen einarbeiten könnt.
 
-**TODO**
-links zu Git Videos einstellen
+##### Links
+* [Download](https://git-scm.com)
+* [Anleitung: tryGit - learn git in 15 minutes](https://try.github.io/levels/1/challenges/1)
+* [MOOC: Wie man Git und GitHub nutzt](https://de.udacity.com/course/how-to-use-git-and-github--ud775)
+* [Anleitung: Unity für Git konfigurieren](https://thoughtbot.com/blog/how-to-git-with-unity)
+
 
 
 ---
@@ -78,38 +83,6 @@ Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für di
 * Software-Testing
 * Tools (z.B. Unity-Collaborate, Trello, Hack&Plan)
 
----
-
-## SourceCode-Repositories
-
-### Unity
-* [Level 100 - Pathfinding with NavMesh](https://github.com/BernhardRubow/example_unity_0002_nav_mesh)
-* [Level 100 - Basic techniques in Unity](https://github.com/BernhardRubow/example_unity_0005_tutorials)
-* [Level 300 - Regeln nach Command-Pattern](https://github.com/BernhardRubow/019_boardgame_rules_tdd)
-* [Level 300 - Zong Mobile Game](https://github.com/BernhardRubow/games-013_zong)
-* [Tool - ScriptTemplateFile](https://gist.github.com/BernhardRubow/e088a4e43fc36245bca067b1fc48a86e)
-
----
-
-## Womit entwickeln wir nachher?
-Im Rahmen des Hackathons verwenden wir folgende Tools für die Entwicklung. Diese könnt ihr vorab auf eueren Geräten installieren oder wir machen das zu Beginn des Hackathons.
-
-### 1. Git - Source Code Verwaltung 
-Wir wollen hier entwickeln, also machen wir es von Anfang an richtig. Da ist eine Versionsverwaltung ein Muss und keine Option. Damit könnt ihr jederzeit Nachvollziehen, wer was geändert hat und im idealen Fall können Änderungen ohne Probleme zusammengefasst werden. Wenn es dann doch mal einen Konflikt gibt, dann wird GIT euch den entsprechenden Bereich markieren und ihr könnte bequem (abhängig vom Editor) entscheiden welche Änderung übernommen werden soll. 
-* Download: [https://git-scm.com](https://git-scm.com)
-* Anleitung: [tryGit - learn git in 15 minutes](https://try.github.io/levels/1/challenges/1)
-* MOOC: [Wie man Git und GitHub nutzt](https://de.udacity.com/course/how-to-use-git-and-github--ud775)
-* Anleitung: [Unity für Git konfigurieren](https://thoughtbot.com/blog/how-to-git-with-unity)
-
-### 2. Code Editor 
-Ihr benötigt einen Text Editor um den Source Code schreiben zu können. Am besten einen mit Syntax Highlight, Code Vervollständigung und Validierung. Unser Vorschlag: Visual Studio Code 
-* Download: [https://code.visualstudio.com]
-
-### 3. Unity3d
-* Download: [https://unity3d.com/de/unity/qa/lts-releases] Unity LTS 2018.4.3f1
-
-### 4. Trello
-Um im Team zusammenarbeiten zu können und immer überblick über das Projekt zu haben, setzen wir ein sehr einfaches aber extrem mächtiges Werkzeug ein. Trello ist ein sog. Kanban-Board mit dem man auf unkomplizierte Weise ein Projekt steuern kann. Diese Tool ist kostenlos.
 
 ---
 
