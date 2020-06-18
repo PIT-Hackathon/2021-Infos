@@ -39,7 +39,7 @@ Wir stellen ein paar Komponenten bereit, die euch das Leben leichter machen kön
 * Ver Beginn des Hackathons einen Trello Account anlegen. [Trello](https://trello.com)
 
 ### Installation von Software
-* Unity LTS-Version 2018.4.3.f1 installieren: [Download](https://download.unity3d.com/download_unity/8a9509a5aff9/UnityDownloadAssistant-2018.4.3f1.exe)
+* Unity LTS-Version 2019.04 installieren: [Download](https://store.unity.com/download?ref=personal)
 * Git installieren: [[Download]](https://git-scm.com/)
 * Visual Studio Code installieren: [[Download]](https://code.visualstudio.com/)
 * In Visual Studio Code folgende Plugins installieren
