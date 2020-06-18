@@ -26,10 +26,6 @@ Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich
 * Unity Learn [https://unity3d.com/de/learn]
 * Coursera Preparation for Unity Expert Gameplay Programmer Exam [https://blogs.unity3d.com/2018/05/28/now-available-worldwide-unity-certified-programmer/]
 
-### Von uns bereitgestellte Komponenten
-Wir stellen ein paar Komponenten bereit, die euch das Leben leichter machen können.
-* [einfaches EventSystem für Unity](https://gist.github.com/BernhardRubow/35d8ef9b6cc553ad547adec05210eead)
-
 ---
 ## Vorbereiten des Rechners für die Teilnahme am Hackathon (im Bereich GameDevelopment)
 
