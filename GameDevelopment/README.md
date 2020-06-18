@@ -11,20 +11,29 @@ Schaut euch vorher mal dieses Video an:
 ### Generell
 Je nach eueren Fähigkeiten könnt ihr euch, wenn ihr Lust habt (und das sollte ihr), schon auf den Hackathon vorbereiten. Dazu haben wir für jeden interessante Kurse und Videos zusammen gestellt und erweiteren diese Liste ständig bis zu beginn des Hackathons
 
+#### Unity
+Entwicklung mit der Unity3d-GameEngine (einer der führenden Entwicklungsumgebungen für kommerzielle Computerspiele). Hier laden wir euch ein mit echter Industrie-Standard-Software euer Ideen umzusetzen. Eingesetzt wird hier die Scriptsprache C#. Diese Sprache findet auch großen Einsatz, bei der Entwicklung von Unternehmmensapplikationen und nicht wenige der am Hackathon beteiligten Unternehmen setzen auf diese Sprache bei der Entwicklung ihrer Software.
+
 Ihr solltet euch auf jeden Fall diese Grundlagen angesehen haben:
 - [Unity Interface](https://youtu.be/D7v2pjke5sc)
 - [Unity Scripting](https://learn.unity.com/project/beginner-gameplay-scripting?courseId=5d532306edbc2a1334dd9aa8)
 - [Unity Prefabs](https://youtu.be/H1OkG3a1w-o)
 - [Unity In Depths](https://learn.unity.com/course/teaching-game-design-and-development)
 
-### Unity
-Entwicklung mit der Unity3d-GameEngine (einer der führenden Entwicklungsumgebungen für kommerzielle Computerspiele). Hier laden wir euch ein mit echter Industrie-Standard-Software euer Ideen umzusetzen. Eingesetzt wird hier die Scriptsprache C#. Diese Sprache findet auch großen Einsatz, bei der Entwicklung von Unternehmmensapplikationen und nicht wenige der am Hackathon beteiligten Unternehmen setzen auf diese Sprache bei der Entwicklung ihrer Software.
 Je nach Erfahrungslevel gibt es hier auch sehr interessante Möglichkeiten, sich auf den Hackathon vorzubereiten:
 * edX (Harvard) Introduction to Game Development [https://www.edx.org/course/cs50s-introduction-to-game-development]
 * Coursera Game Design Spezialisation [https://www.coursera.org/learn/game-development]
 * Pluralsight Unity [https://www.pluralsight.com/paths/unity-game-development-core-skills]
 * Unity Learn [https://unity3d.com/de/learn]
 * Coursera Preparation for Unity Expert Gameplay Programmer Exam [https://blogs.unity3d.com/2018/05/28/now-available-worldwide-unity-certified-programmer/]
+
+
+#### Versionsverwaltung (Git)
+Softwareentwicklung ist eine Teamleistung. Darum ist es notwendig, sich damit vertraut zu machen, wie man den Programmcode im Team gleichzeitig bearbeiten und weiterentwickeln kann. Hier ist **Git** als Tool zur Versionsverwaltung der Industriestandard. Da ihr auf dem Hackathon als Team arbeiten werdet, solltet ihr euch schon ein wenig mit Git befassen. Keine Angst so schwer ist das nicht. Wir geben euch hier ein paar Videos an die Hand, mit Ihr euch in die Grundlagen einarbeiten könnt.
+
+**TODO**
+links zu Git Videos einstellen
+
 
 ---
 ## Vorbereiten des Rechners für die Teilnahme am Hackathon (im Bereich GameDevelopment)
