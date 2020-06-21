@@ -90,6 +90,10 @@ Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für di
 
 ### Level 100
 * [First Game](https://youtu.be/1p5nT2PAOr8) 
+* [C# - Language](https://www.youtube.com/playlist?list=PLBIb_auVtBwD5ovBwgGKbQK8d7efdKGlk)
+* [Character-Controller](https://www.youtube.com/playlist?list=PLBIb_auVtBwCP0_ZTv1a6P9fnn_CcKrq7)
+* [Miscellaneous Unity Tutorials](https://www.youtube.com/watch?v=4pl8DcsCQ_k&list=PLBIb_auVtBwCK_dyk-Wzxvk5I5z441lZd)
+* [2D Platformer Tutorials](https://www.youtube.com/playlist?list=PLBIb_auVtBwBotxgdQXn2smO0Fvqqea4-)
 
 ### Level 200
 * [Prototype & Type Object Pattern](https://www.youtube.com/watch?v=Yy7Dt2usGy0)
@@ -102,41 +106,11 @@ Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für di
 * [Dependency Injection](https://www.youtube.com/watch?v=8dLkhKtv_k8) 
 * [Unit Tests](https://www.youtube.com/watch?v=PDYB32qAsLU)
 
-
-## In welchen Rollen werden wir an dem Spiel arbeiten?
-Ihr werdet eine oder mehrere der folgenden Rollen bei der Entwicklung einnehmen.
-
-### Game Designer
-Der Game Designer einwickelt eine Vision des Spiels. Er beschreibt was der Spieler in dem Spiel unternehmen kann, welche Charaktere er treffen wird und welche Entscheidungen er treffen kann. Alle Optionen und sämtliche Interaktionen werden durch den Game Designer definiert.
-
-### Game Developer
-Als Game Developer setzt ihr die Ideen des Game Designer technisch um. Dafür werden diverse Kompontenten wie Physik, Grafik Engine, AI uvm. entwickelt oder integriert.
-
-### Visual Artist
-Der Visual Artist erstellt alle visuallen Element, wie 3D Modelle, Texturen, Materialien und Effekte, für das Spiel.
-
-### Post Processing Artist
-Der Post Processing Artist kümmert sich um alle Effect, die nicht direkt im Spiel implementiert werden, sondern er nachdem der aktuelle Frame berechnet worden ist (Post Processing) auf das fertige FrameBild berechnet werden, wie z.B. Color Grading, Motion Blur und viele andere Effekte.
-
-### Audio Engineer
-Der Audio Engineer ist vergleichbar mit dem Visual Artist, nur das dieser statt Grafiken Geräusche erstellt. Dazu gehören neben Effekten auch die Hintergrund Musik, der Sound Track und vertonte Dialoge.
-
-### Animator
-Der Animator erweckt die 3D Modelle des Visual Artist zum Leben.
-
-### Level Designer
-Der Level Designer kombiniert die visuellen und akustischen Komponenten und erstellt damit ein Level für das Spiel. 
-
-### Producer
-Der Producer steuert und überwacht den Erstellungsprozess des Spiels (auch Finanziell).
-
-### QA Tester
-Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
-
----
+### Storytelling
+* [Die Heldenreise](https://www.storytellingmasterclass.de/wp/wp-content/uploads/2019/07/Die-Heldenreise.pdf)
 
 
-## Tutorials & Anleitungen
+### Ressourcen und weitere Tutorials & Anleitungen
 
 - Tutorials Spieleentwicklung:
     - [unity3d.college (Dragons)](https://www.youtube.com/playlist?list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk)
@@ -149,7 +123,7 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
     - [und natürlich: ExtraCredits](https://www.youtube.com/user/ExtraCreditz)
     - [Unity Certified Programmer Exam Preparation](https://www.coursera.org/specializations/unity-certified-programmer)
 - Tools
-    - [Jesse Schell: A book of lense (Android App)](https://play.google.com/store/apps/details?id=com.schellgames.deckoflenses&hl=de)
+    - [Jesse Schell: A book of lense (Android App)!!!!!!!!!!](https://play.google.com/store/apps/details?id=com.schellgames.deckoflenses&hl=de)
     - [MDA Framework: A Formal Approach to Game Design and Game Research](http://www.cs.northwestern.edu/~hunicke/MDA.pdf)
 - Game Design Documet (Vorlage)
     - [High Concept Document Template](https://www.dropbox.com/s/cit5rsx8f5d5o6b/HighConceptTemplate.pdf?dl=0)
@@ -159,6 +133,7 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
     - [Autodesk 3ds Max (Educational)](http://www.autodesk.com/education/free-software/3ds-max)
     - [Autodesk Maya (Educational)](https://www.autodesk.com/education/free-software/maya)
 - Texturen
+    - [Open Game Art](https://opengameart.org/)
     - [CG Textures](http://www.cgtextures.com/)
     - [Texture King](http://www.textureking.com)
     - [Stock Textures](http://stocktextures.com/)
