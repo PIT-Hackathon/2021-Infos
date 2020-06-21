@@ -100,6 +100,7 @@ Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für di
 * [Oberserver Pattern](https://www.youtube.com/watch?v=Yy7Dt2usGy0)
 * [Assembly Definitions](https://www.youtube.com/watch?v=HYqOSkHI674)
 * [Exceptions in Unity](https://youtu.be/8BnPCav-vfc)
+* [Rogue like random Level Generation](https://www.youtube.com/playlist?list=PLBIb_auVtBwClCk31hwqH0yqrbnE8oI75)
 
 ### Level 300
 
