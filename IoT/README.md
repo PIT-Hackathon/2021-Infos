@@ -1,6 +1,6 @@
 # IoT - Internet of Things
 
-Eines der Themen für den [PIT-Hackathon 2019](https://github.com/PIT-Hackathon/2019-Infos) ist die Entwicklung eines IoT Systems und auf dieser Seite erfährst Du, was es mit dem Thema auf sich hat. Falls das etwas für Dich ist, kannst Du Dich mit Hilfe von ein paar kleinen Aufgaben schon ein bisschen vorbereiten - musst es aber natürlich nicht.
+Eines der Themen für den [PIT-Hackathon 2020](https://github.com/PIT-Hackathon/2020-Infos) ist die Entwicklung eines IoT Systems und auf dieser Seite erfährst Du, was es mit dem Thema auf sich hat. Falls das etwas für Dich ist, kannst Du Dich mit Hilfe von ein paar kleinen Aufgaben schon ein bisschen vorbereiten - musst es aber natürlich nicht.
 
 ## Was ist IoT?
 
@@ -12,7 +12,7 @@ Spaß am Basteln und gute Ideen. Evtl. kennst Du bereits den Arduino, den Raspbe
 
 ## Das hört sich schon mal gut an - wie geht es weiter?
 
-Welches Thema Du wählen möchtest, musst Du erst zu Beginn des Hackathons entscheiden. Vielleicht informierst Du Dich schon einmal vorab bei den [anderen Themen](https://github.com/PIT-Hackathon/2019-Infos), ob noch eine Alternative für Dich dabei ist.
+Welches Thema Du wählen möchtest, musst Du erst zu Beginn des Hackathons entscheiden. Vielleicht informierst Du Dich schon einmal vorab bei den [anderen Themen](https://github.com/PIT-Hackathon/2020-Infos), ob noch eine Alternative für Dich dabei ist.
 
 ## Kann ich mich schon irgendwie vorbereiten?
 
