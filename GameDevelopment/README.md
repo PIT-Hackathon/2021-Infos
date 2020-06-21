@@ -92,6 +92,10 @@ Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für di
 * [First Game](https://youtu.be/1p5nT2PAOr8) 
 
 ### Level 200
+* [Prototype & Type Object Pattern](https://www.youtube.com/watch?v=Yy7Dt2usGy0)
+* [Oberserver Pattern](https://www.youtube.com/watch?v=Yy7Dt2usGy0)
+* [Assembly Definitions](https://www.youtube.com/watch?v=HYqOSkHI674)
+* [Exceptions in Unity](https://youtu.be/8BnPCav-vfc)
 
 ### Level 300
 
