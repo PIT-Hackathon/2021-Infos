@@ -86,6 +86,19 @@ Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für di
 
 ---
 
+## Tutorials zu wichtigen Kernfunktinalitäten
+
+### Level 100
+* [First Game](https://youtu.be/1p5nT2PAOr8) 
+
+### Level 200
+
+### Level 300
+
+* [Dependency Injection](https://www.youtube.com/watch?v=8dLkhKtv_k8) 
+* [Unit Tests](https://www.youtube.com/watch?v=PDYB32qAsLU)
+
+
 ## In welchen Rollen werden wir an dem Spiel arbeiten?
 Ihr werdet eine oder mehrere der folgenden Rollen bei der Entwicklung einnehmen.
 
@@ -185,4 +198,3 @@ Die QA bestätigt die Qualität des Spiels und zeigt Mängel (Bugs) auf.
 - [MarkDown-CheatCheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Git-CheatCheat](https://www.git-tower.com/blog/git-cheat-sheet/)
 - [MS Code-CheatCheat](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-
