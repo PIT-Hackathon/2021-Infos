@@ -96,6 +96,7 @@ Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für di
 * [2D Platformer Tutorials](https://www.youtube.com/playlist?list=PLBIb_auVtBwBotxgdQXn2smO0Fvqqea4-)
 
 ### Level 200
+* [Command-Pattern](https://www.youtube.com/watch?v=UoNumkMTx-U)
 * [Prototype & Type Object Pattern](https://www.youtube.com/watch?v=Yy7Dt2usGy0)
 * [Oberserver Pattern](https://www.youtube.com/watch?v=Yy7Dt2usGy0)
 * [Assembly Definitions](https://www.youtube.com/watch?v=HYqOSkHI674)
