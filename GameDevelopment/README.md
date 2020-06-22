@@ -100,13 +100,12 @@ Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für di
 * [Command-Pattern](https://www.youtube.com/watch?v=UoNumkMTx-U)
 * [Prototype & Type Object Pattern](https://www.youtube.com/watch?v=Yy7Dt2usGy0)
 * [Oberserver Pattern](https://www.youtube.com/watch?v=Yy7Dt2usGy0)
+* [Dependency Injection](https://www.youtube.com/watch?v=8dLkhKtv_k8) 
 * [Assembly Definitions](https://www.youtube.com/watch?v=HYqOSkHI674)
 * [Exceptions in Unity](https://youtu.be/8BnPCav-vfc)
 * [Rogue like random Level Generation](https://www.youtube.com/playlist?list=PLBIb_auVtBwClCk31hwqH0yqrbnE8oI75)
 
 ### Level 300
-
-* [Dependency Injection](https://www.youtube.com/watch?v=8dLkhKtv_k8) 
 * [Unit Tests](https://www.youtube.com/watch?v=PDYB32qAsLU)
 
 ### Storytelling
