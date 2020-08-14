@@ -108,6 +108,53 @@ Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für di
 ### Level 300
 * [Unit Tests](https://www.youtube.com/watch?v=PDYB32qAsLU)
 
+## Tutorials zu bestimmten Problemstellungen
+[Wall Jump](https://www.youtube.com/watch?v=KCzEnKLaaPc)
+
+[Bow](https://www.youtube.com/watch?v=tNwLaGUJTK4)
+
+[Level Generation 1](https://www.youtube.com/watch?v=hk6cUanSfXQ)
+[Level Generation 2](https://www.youtube.com/watch?v=XNQQLr0E9TY)
+[Level Generation 3](https://www.youtube.com/watch?v=G9Wa0XZ2a2o)
+
+[World Generation](https://www.youtube.com/watch?v=D4EOgZyNk-k)
+
+[Inventar 1](https://www.youtube.com/watch?v=DLAIYSMYy2g)
+[Inventar 2](https://www.youtube.com/watch?v=OG7vHstkZqM)
+
+[Boss Battle](https://www.youtube.com/watch?v=cXefXSD2SM0)
+
+[AI)(https://www.youtube.com/watch?v=dYi-i83sq5g)
+
+[AI-Patrol](https://www.youtube.com/watch?v=8eWbSN2T8TE)
+
+[AI-Shooting](https://www.youtube.com/watch?v=_Z1t7MNk0c4)
+
+[AI-Follow](https://www.youtube.com/watch?v=rhoQd6IAtDo)
+
+[Ranged Combat](https://www.youtube.com/watch?v=bY4Hr2x05p8)
+
+[Meelee Combat](https://www.youtube.com/watch?v=1QfxdUpVh5I)
+
+[Checkpoints](https://www.youtube.com/watch?v=ofCLJsSUom0)
+
+[Tutorial](https://www.youtube.com/watch?v=a1RFxtuTVsk)
+
+[Transitions:](https://www.youtube.com/watch?v=Qd2em_ts5vs)
+
+[Screenshake](https://www.youtube.com/watch?v=N24MhfeoUpE)
+
+[Random Dungeon Generation 1](https://www.youtube.com/watch?v=qAf9axsyijY)
+[Random Dungeon Generation 2](https://www.youtube.com/watch?v=eR74EjkA_4s)
+[Random Dungeon Generation 3](https://www.youtube.com/watch?v=CUdKdHmT8xA)
+
+[Dialogue System](https://www.youtube.com/watch?v=f-oSXg6_AMQ)
+
+[Character Controller](https://www.youtube.com/watch?v=CeXAiaQOzmY)
+
+[Click To Move Controller](https://www.youtube.com/watch?v=KU2CKBlCAxQ)
+
+
 ### Storytelling
 * [Die Heldenreise](https://www.storytellingmasterclass.de/wp/wp-content/uploads/2019/07/Die-Heldenreise.pdf)
 
