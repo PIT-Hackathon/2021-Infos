@@ -1,18 +1,5 @@
-# Game Development
-Das Thema 'Game Development beim [PIT-Hackathon 2019](https://github.com/PIT-Hackathon/2019-Infos) umfasst die erste Phase der Spieleentwicklung, von der Erstellung eines Konzepts bis zum lauffähigen Prototypen. Dabei werdet ihr diverse Rolle wie Game Designer, Game Developer, Visual Artist, Audio Engineer uvm. einnehmen und zusammen im Team euer Spiel entwickeln. Dabei bieten wir verschiedene Einstiegsmöglichkeiten in das Thema an.
 
-Schaut euch vorher mal dieses Video an:
-- [Biggest Game Desing Mistakes](https://www.youtube.com/watch?v=5x4Q_SOLN28)
 
----
-
-## Vorbereitung auf den Hackathon
-
-### Generell
-Je nach eueren Fähigkeiten könnt ihr euch, wenn ihr Lust habt (und das sollte ihr), schon auf den Hackathon vorbereiten. Dazu haben wir für jeden interessante Kurse und Videos zusammen gestellt und erweiteren diese Liste ständig bis zu beginn des Hackathons
-
-#### Unity
-Entwicklung mit der Unity3d-GameEngine (einer der führenden Entwicklungsumgebungen für kommerzielle Computerspiele). Hier laden wir euch ein mit echter Industrie-Standard-Software euer Ideen umzusetzen. Eingesetzt wird hier die Scriptsprache C#. Diese Sprache findet auch großen Einsatz, bei der Entwicklung von Unternehmmensapplikationen und nicht wenige der am Hackathon beteiligten Unternehmen setzen auf diese Sprache bei der Entwicklung ihrer Software.
 
 ##### Links
 - [Ein Spiel an einem Tag erstellen](https://youtu.be/1p5nT2PAOr8)
@@ -59,32 +46,6 @@ Softwareentwicklung ist eine Teamleistung. Darum ist es notwendig, sich damit ve
   
 ---
 
-## Themengebiete
-Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für diesen Hackathon die Bereiche :
-#### Begleitung bei Einstieg in die Spieleentwicklung (ohne Programmierkenntnisse)
-*Für Anfänger*
-* Heranführung an die Spieleprogrammieung mit Hilfe eines Tutorials
-* fertiges Spiel, welches sich nachher noch durch durch features erweitern läßt
-
-#### Begleitung bei Einstieg in Unity (mit Programmierkenntnissen)
-*Mit ersten Programmierkenntnisssen*
-* Prüfung der Spielidee auf Durchführbarkeit 
-* Unterstützung bei Ausarbeitung des GDD
-* erste Software-Design-Patterns (SOLID, Publish&Subscribe)
-* Tools (git)
-
-#### Begleitung bei Einstieg in Unity unter Verwendung von Software Design Patterns 
-*Fortgeschrittene*
-* Prüfung der Spielidee auf Durchführbarkeit 
-* Unterstützung bei Ausarbeitung des GDD
-* Unterstüzung bei autretenden Problemsitiation
-* Fortgeschrittene Tools unter Unity (z.B Profiler)
-* fortgeschrittene Software-Design-Patterns (z.b Dependency Injection)
-* Software-Testing
-* Tools (z.B. Unity-Collaborate, Trello, Hack&Plan)
-
-
----
 
 ## Tutorials zu wichtigen Kernfunktinalitäten
 
@@ -94,6 +55,7 @@ Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für di
 * [Character-Controller](https://www.youtube.com/playlist?list=PLBIb_auVtBwCP0_ZTv1a6P9fnn_CcKrq7)
 * [Miscellaneous Unity Tutorials](https://www.youtube.com/watch?v=4pl8DcsCQ_k&list=PLBIb_auVtBwCK_dyk-Wzxvk5I5z441lZd)
 * [2D Platformer Tutorials](https://www.youtube.com/playlist?list=PLBIb_auVtBwBotxgdQXn2smO0Fvqqea4-)
+* [Unity Create With Code](https://learn.unity.com/course/create-with-code)
 
 ### Level 200
 * [Programming S.O.L.I.D in Unity](https://game.courses/solid-principles-for-game-development/)
@@ -228,3 +190,6 @@ Als Themengebiete auf die sich die Mentoren besonders vorbereiten wurden für di
 - [MarkDown-CheatCheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Git-CheatCheat](https://www.git-tower.com/blog/git-cheat-sheet/)
 - [MS Code-CheatCheat](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
+
+[Biggest Game Desing Mistakes](https://www.youtube.com/watch?v=5x4Q_SOLN28)
