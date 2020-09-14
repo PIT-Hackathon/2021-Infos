@@ -2,11 +2,7 @@
 
 
 ##### Links
-- [Ein Spiel an einem Tag erstellen](https://youtu.be/1p5nT2PAOr8)
-- [Unity Interface](https://youtu.be/D7v2pjke5sc)
-- [Unity Scripting](https://learn.unity.com/project/beginner-gameplay-scripting?courseId=5d532306edbc2a1334dd9aa8)
-- [Unity Prefabs](https://youtu.be/H1OkG3a1w-o)
-- [Unity In Depths](https://learn.unity.com/course/teaching-game-design-and-development)
+
 
 ##### weiterführende Links:
 * [edX (Harvard) Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
@@ -56,6 +52,11 @@ Softwareentwicklung ist eine Teamleistung. Darum ist es notwendig, sich damit ve
 * [Miscellaneous Unity Tutorials](https://www.youtube.com/watch?v=4pl8DcsCQ_k&list=PLBIb_auVtBwCK_dyk-Wzxvk5I5z441lZd)
 * [2D Platformer Tutorials](https://www.youtube.com/playlist?list=PLBIb_auVtBwBotxgdQXn2smO0Fvqqea4-)
 * [Unity Create With Code](https://learn.unity.com/course/create-with-code)
+* [Ein Spiel an einem Tag erstellen](https://youtu.be/1p5nT2PAOr8)
+* [Unity Interface](https://youtu.be/D7v2pjke5sc)
+* [Unity Scripting](https://learn.unity.com/project/beginner-gameplay-scripting?courseId=5d532306edbc2a1334dd9aa8)
+* [Unity Prefabs](https://youtu.be/H1OkG3a1w-o)
+* [Unity In Depths](https://learn.unity.com/course/teaching-game-design-and-development)
 
 ### Level 200
 * [Programming S.O.L.I.D in Unity](https://game.courses/solid-principles-for-game-development/)
