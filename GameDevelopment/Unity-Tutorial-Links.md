@@ -74,6 +74,8 @@
 
 [Click To Move Controller](https://www.youtube.com/watch?v=KU2CKBlCAxQ)
 
+[Visual Scripting in Unity](https://www.youtube.com/watch?v=8y6akNTUt2Y)
+
 
 ### Storytelling
 * [Die Heldenreise](https://www.storytellingmasterclass.de/wp/wp-content/uploads/2019/07/Die-Heldenreise.pdf)
@@ -149,6 +151,9 @@
     - [LiveEdu.tv](https://www.liveedu.tv/)
 - interessante kostenfreie assets aus dem Assetstore
     - [Prototyping](https://assetstore.unity.com/packages/tools/level-design/yume-free-77387)
+- Talks
+    - [The new Unity Input System](https://www.youtube.com/watch?v=hw3Gk5PoZ6A)
+    
 
 ## Cheat Sheets (Merkblätter über die wichtigsten Befehle und Funktionen eine Software)
 
