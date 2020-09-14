@@ -1,48 +1,3 @@
-
-
-
-##### Links
-
-
-##### weiterführende Links:
-* [edX (Harvard) Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
-* [Coursera Game Design Spezialisation](https://www.coursera.org/learn/game-development)
-* [Pluralsight Unity](https://www.pluralsight.com/paths/unity-game-development-core-skills)
-* [Unity Learn](https://unity3d.com/de/learn)
-* [Coursera Preparation for Unity Expert Gameplay Programmer Exam](https://blogs.unity3d.com/2018/05/28/now-available-worldwide-unity-certified-programmer/)
-
-
-#### Versionsverwaltung (Git)
-Softwareentwicklung ist eine Teamleistung. Darum ist es notwendig, sich damit vertraut zu machen, wie man den Programmcode im Team gleichzeitig bearbeiten und weiterentwickeln kann. Hier ist **Git** als Tool zur Versionsverwaltung der Industriestandard. Da ihr auf dem Hackathon als Team arbeiten werdet, solltet ihr euch schon ein wenig mit Git befassen. Keine Angst so schwer ist das nicht. Wir geben euch hier ein paar Videos an die Hand, mit Ihr euch in die Grundlagen einarbeiten könnt.
-
-##### Links
-* [Download](https://git-scm.com)
-* [Anleitung: tryGit - learn git in 15 minutes](https://try.github.io/levels/1/challenges/1)
-* [MOOC: Wie man Git und GitHub nutzt](https://de.udacity.com/course/how-to-use-git-and-github--ud775)
-* [Anleitung: Unity für Git konfigurieren](https://thoughtbot.com/blog/how-to-git-with-unity)
-
-
-
----
-## Vorbereiten des Rechners für die Teilnahme am Hackathon (im Bereich GameDevelopment)
-
-### Notwendige Useraccounts anlegen
-* Vor Beginn des Hackathons einen Unity Account anlegen. [Unity3d](https://unity3d.com/de)
-* Vor Beginn des Hackathons einen GitHub Account anlegen. [GitHub](https://github.com/)
-* Ver Beginn des Hackathons einen Trello Account anlegen. [Trello](https://trello.com)
-
-### Installation von Software
-* Unity LTS-Version 2019.04 installieren: [Download](https://store.unity.com/download?ref=personal)
-* Git installieren: [[Download]](https://git-scm.com/)
-* Visual Studio Code installieren: [[Download]](https://code.visualstudio.com/)
-* In Visual Studio Code folgende Plugins installieren
-  * [C#] von Microsoft
-  * [Debugger for Unity] von Unity Technologies
-  * [Unity Tools] von Tobiah Zarlez
-  
----
-
-
 ## Tutorials zu wichtigen Kernfunktinalitäten
 
 ### Level 100
@@ -136,6 +91,11 @@ Softwareentwicklung ist eine Teamleistung. Darum ist es notwendig, sich damit ve
     - [coursera: Game Design Art and Concepts Specialization](https://www.coursera.org/specializations/game-design)
     - [und natürlich: ExtraCredits](https://www.youtube.com/user/ExtraCreditz)
     - [Unity Certified Programmer Exam Preparation](https://www.coursera.org/specializations/unity-certified-programmer)
+    - [Coursera Preparation for Unity Expert Gameplay Programmer Exam](https://blogs.unity3d.com/2018/05/28/now-available-worldwide-unity-certified-programmer/)
+    - [edX (Harvard) Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
+    - [Coursera Game Design Spezialisation](https://www.coursera.org/learn/game-development)
+    - [Pluralsight Unity](https://www.pluralsight.com/paths/unity-game-development-core-skills)
+    - [Unity Learn](https://unity3d.com/de/learn)
 - Tools
     - [Jesse Schell: A book of lense (Android App)!!!!!!!!!!](https://play.google.com/store/apps/details?id=com.schellgames.deckoflenses&hl=de)
     - [MDA Framework: A Formal Approach to Game Design and Game Research](http://www.cs.northwestern.edu/~hunicke/MDA.pdf)
@@ -143,9 +103,14 @@ Softwareentwicklung ist eine Teamleistung. Darum ist es notwendig, sich damit ve
     - [High Concept Document Template](https://www.dropbox.com/s/cit5rsx8f5d5o6b/HighConceptTemplate.pdf?dl=0)
     - [One Page Game Design Document Template](https://www.dropbox.com/s/xfmzl2d64teinre/OnePageGameDesignDocument.pdf?dl=0)
     - [Game Story Bible Template](https://www.dropbox.com/s/hapw4l0bev115r5/GameStoryBibleTemplate.pdf?dl=0)
-- Software
+- 3d Software
     - [Autodesk 3ds Max (Educational)](http://www.autodesk.com/education/free-software/3ds-max)
     - [Autodesk Maya (Educational)](https://www.autodesk.com/education/free-software/maya)
+- Versionkontrollsystem GIT
+    - [Download](https://git-scm.com)
+    - [Anleitung: tryGit - learn git in 15 minutes](https://try.github.io/levels/1/challenges/1)
+    - [MOOC: Wie man Git und GitHub nutzt](https://de.udacity.com/course/how-to-use-git-and-github--ud775)
+    - [Anleitung: Unity für Git konfigurieren](https://thoughtbot.com/blog/how-to-git-with-unity)
 - Texturen
     - [Open Game Art](https://opengameart.org/)
     - [CG Textures](http://www.cgtextures.com/)
@@ -192,5 +157,5 @@ Softwareentwicklung ist eine Teamleistung. Darum ist es notwendig, sich damit ve
 - [Git-CheatCheat](https://www.git-tower.com/blog/git-cheat-sheet/)
 - [MS Code-CheatCheat](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
-
-[Biggest Game Desing Mistakes](https://www.youtube.com/watch?v=5x4Q_SOLN28)
+## Interessant
+- [Biggest Game Desing Mistakes](https://www.youtube.com/watch?v=5x4Q_SOLN28)
