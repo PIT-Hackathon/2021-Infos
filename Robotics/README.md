@@ -24,3 +24,11 @@ Um mit Lego Boost loslegen zu können, stellen wir interessierten Teilnehmern ei
 
 Um das Lego Boost Kit nicht über die (kostenlose) Lego Boost App auf dem Tablet programmieren zu müssen, braucht man weiterhin einen Computer (Laptop), der mittels [Bluetooth LE](https://de.wikipedia.org/wiki/Bluetooth_Low_Energy) eine Verbindung mit dem Move Hub aufbauen kann. Da viele Computer nicht über die entsprechende Schnittstelle verfügen, wird Euch dafür ein [USB Bluetooth Dongle](https://www.silabs.com/wireless/bluetooth/bluegiga-low-energy-legacy-modules/device.bled112) zur Verfügung gestellt, mit dem die Verbindung und Programmierung garantiert funktionieren wird, sowohl unter Windows als auch unter Linux.
 
+## Anleitung zur Vorbereitung
+Die Installation der benötigten Komponenten ist in der Regel in wenigen Minuten erledigt und kann daher auch "vor Ort" bzw. zu Beginn des Hackathon erfolgen; denn ohne die erforderliche Hardware (siehe oben) kann man als Teilnehmer sowieso noch nicht loslegen. Dennoch stellen wir für interessierte Teilnehmer und auch als Referenz für uns eine [Installationsanleitung](Installation.md) (für Windows und Linux) zur Verfügung.
+
+## Link-Sammlung
+Hier noch ein paar weitere Links zum Thema, die man sich bei Interesse schon einmal ansehen kann, um sich auf die Programmierung des Lego Boost vorzubereiten:
+
+* [Python-Bibliothek zur Boost-Programmierung inkl. Videos und Dokumentation](https://github.com/undera/pylgbst)
+* [Python Cheat Sheet](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_all.pdf)
