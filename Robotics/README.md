@@ -20,7 +20,7 @@ Da es beim Hackathon aber auch darum geht, Programmierkenntnisse zu erlernen und
 Damit man bei der Programmierung mit Python nicht "bei Null" anfangen muss, greifen wir auf eine Bibliothek zurück, die als Open Source Komponente zur Verfügung steht. Mittels dieser Bibliothek kann man alle Komponenten des Boost-Systems mit Python ansprechen.
 
 ## Erforderliche Hardware (wird den Teilnehmern zur Verfügung gestellt)
-Um mit Lego Boost loslegen zu können, stellen wir interessierten Teilnehmern ein Lego-Boost-Kit zur Verfügung dieses Kit besteht zunächst einmal aus dem Lego Boost selbst, also den Lego-Bausteinen inkl. der Sensoren, Motoren usw. und dem sogenannten **Move Hub**, der als zentrale Steuereinheit für alle Lego-Boost-Projekte dient.
+Um mit Lego Boost loslegen zu können, stellen wir interessierten Teilnehmern ein Lego-Boost-Kit zur Verfügung. Dieses Kit besteht zunächst einmal aus dem Lego Boost selbst, also den Lego-Bausteinen inkl. der Sensoren, Motoren usw. und dem sogenannten **Move Hub**, der als zentrale Steuereinheit für alle Lego-Boost-Projekte dient.
 
 Um das Lego Boost Kit nicht über die (kostenlose) Lego Boost App auf dem Tablet programmieren zu müssen, braucht man weiterhin einen Computer (Laptop), der mittels [Bluetooth LE](https://de.wikipedia.org/wiki/Bluetooth_Low_Energy) eine Verbindung mit dem Move Hub aufbauen kann. Da viele Computer nicht über die entsprechende Schnittstelle verfügen, wird Euch dafür ein [USB Bluetooth Dongle](https://www.silabs.com/wireless/bluetooth/bluegiga-low-energy-legacy-modules/device.bled112) zur Verfügung gestellt, mit dem die Verbindung und Programmierung garantiert funktionieren wird, sowohl unter Windows als auch unter Linux.
 
