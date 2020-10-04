@@ -32,3 +32,7 @@ Hier noch ein paar weitere Links zum Thema, die man sich bei Interesse schon ein
 
 * [Python-Bibliothek zur Boost-Programmierung inkl. Videos und Dokumentation](https://github.com/undera/pylgbst)
 * [Python Cheat Sheet](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_all.pdf)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [GIT für Windows](https://gitforwindows.org/)
+
+Dabei sind insbesondere **Visual Studio Code** als Entwicklungsumgebung sowie **GIT** für die Versionsverwaltung empfohlen. Die oben genannte Python-Bibliothek installieren und verwenden wir dann zur Programmierung. Auf der Webseite der Bibliothek findet Ihr auch Links zu YouTube-Videos, die beispielhaft zeigen, was man damit so alles schönes programmieren kann.
