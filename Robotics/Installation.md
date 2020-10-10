@@ -11,7 +11,9 @@ Die Installation von Python unter Linux ist meistens nicht erforderlich, da es s
 ```bash
 python --version
 ```
-Sollte Python nur in einer älteren Version (< 3.6) installiert sein, so installiert man das Paket über die in Linux integrierte Paket- und Softwareverwaltung nach, was je nach Distribution anders verlaufen kann. Zu diesem Zweck sei auf weitere Lektüre wie bspw. zu [pyenv](https://realpython.com/intro-to-pyenv/) verwiesen oder auch [diesen Artikel](https://therafman.wordpress.com/2018/12/13/upgrade-to-python-3-7-and-make-it-the-default-version-in-any-linux-ubuntu-based-distributions/), der u.a. die Installation von Python 3.x auf einem Ubuntu Linux beschreibt. Andere Linux-Distributionen, z.B. Manjaro Linux, bringen bereits eine aktuelle Version von Python mit, sodass Ihr Euch um eine Installation nicht zu kümmern braucht.
+Sollte Python nur in einer älteren Version (< 3.6) installiert sein, so installiert man das Paket über die in Linux integrierte Paket- und Softwareverwaltung nach, was je nach Distribution anders verlaufen kann. Unter Linux nennt sich das Paket meist **python3**, um eine einfache Unterscheidung zur Vorversion (2.x) zu ermöglichen.
+
+In diesem Zusammenhang sei auf weitere Lektüre wie bspw. zu [pyenv](https://realpython.com/intro-to-pyenv/) verwiesen oder auch [diesen Artikel](https://therafman.wordpress.com/2018/12/13/upgrade-to-python-3-7-and-make-it-the-default-version-in-any-linux-ubuntu-based-distributions/), der u.a. die Installation von Python 3.x auf einem Ubuntu Linux beschreibt. Andere Linux-Distributionen, z.B. Manjaro Linux, bringen bereits eine aktuelle Version von Python mit, sodass Ihr Euch um eine Installation nicht zu kümmern braucht.
 ## PIP aktualisieren
 Zu Python gehört der Paketmanager **PIP**, um weitere Bibliotheken nachzuladen und zu installieren. Zumindest unter Windows ist dieser nicht (ganz) aktuell und sollte vor der ersten Verwendung auf den aktuellsten Stand gebracht werden. Dies erfolgt sowohl unter Windows als auch unter Linux mittels der Kommandozeile (Terminal, Eingabeaufforderung, PowerShell):
 ```bash
