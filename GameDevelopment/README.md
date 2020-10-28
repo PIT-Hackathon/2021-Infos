@@ -16,6 +16,7 @@ Softwareentwicklung ist eine Teamleistung. Darum ist es notwendig, sich damit ve
 * [Anleitung: tryGit - learn git in 15 minutes](https://try.github.io/levels/1/challenges/1)
 * [MOOC: Wie man Git und GitHub nutzt](https://de.udacity.com/course/how-to-use-git-and-github--ud775)
 * [Anleitung: Unity für Git konfigurieren](https://thoughtbot.com/blog/how-to-git-with-unity)
+* [oder Anleitung: Unity für Git konfigurieren](https://unityatscale.com/unity-version-control-guide/how-to-setup-unity-project-on-github/)
 
 
 
