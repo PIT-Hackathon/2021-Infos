@@ -36,6 +36,9 @@ Softwareentwicklung ist eine Teamleistung. Darum ist es notwendig, sich damit ve
   * [Debugger for Unity] von Unity Technologies
   * [Unity Tools] von Tobiah Zarlez
   
+### Unity Template Projekt von GitHub clonen
+* Template Projekt auf GitHub : [PIT-Template-Projekt](https://github.com/BernhardRubow/PIT-Tempate-Project)
+  
 ---
 
 ## Themengebiete
