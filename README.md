@@ -1,6 +1,6 @@
-# 2020-Infos
+# 2021-Infos
 
-Der [PIT-Hackathon](https://paderborn-ist-informatik.de/entdecke-deine-zukunft/pit-hackathon/) in Paderborn findet auch im Jahr 2020 im [HNF](https://www.hnf.de) statt. Wie auch im letzten Jahr haben wir einige Themen vorbereitet, zu den wir hacken wollen.
+Der [PIT-Hackathon](https://paderborn-ist-informatik.de/entdecke-deine-zukunft/pit-hackathon/) in Paderborn findet auch im Jahr 2021 im [HNF](https://www.hnf.de) statt. Wie auch im letzten Jahr haben wir einige Themen vorbereitet, zu den wir hacken wollen.
 
 ## Themen:
 Infos zu den einzelnen Themen findest Du auf den folgenden Seiten
