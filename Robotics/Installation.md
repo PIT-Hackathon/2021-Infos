@@ -5,7 +5,7 @@ Grundvoraussetzung zur Programmierung mit Python ist die Installation der Progra
 
 Zur Zeit (Oktober 2020) ist die Python-Version 3.9.0 aktuell, wobei diese Version nicht zwingend notwendig ist, um mit den Robotics-Projekten zu beginnen. Älter als Version 3.6 sollte Eure Python-Installation jedoch auch nicht sein; zumindest haben wir während unserer Vorbereitungen auf den Hackathon aktuelle(re) Python-Versionen verwendet und die Anleitung(en) darauf zugeschnitten.
 ### Windows
-Unter Windows (10) erfolgt die Installation besonders einfach über den Microsoft Store. Diesen startet man entweder manuell über das Windows Startmenü oder über die PowerShell bzw. die Eingabeaufforderung. Dort gibt man **python** als Befehl ein. Ist Python nicht installiert, so öffnet sich der Microsoft Store und bietet direkt die Installation von **Python 3.8** an.
+Unter Windows (10) erfolgt die Installation besonders einfach über den Microsoft Store. Diesen startet man entweder manuell über das Windows Startmenü oder über die PowerShell bzw. die Eingabeaufforderung. Dort gibt man **python** als Befehl ein. Ist Python nicht installiert, so öffnet sich der Microsoft Store und bietet direkt die Installation von **Python 3.9** an.
 ### Linux
 Die Installation von Python unter Linux ist meistens nicht erforderlich, da es sehr oft bereits installiert ist und von anderen Komponenten des Systems verwendet wird. Die installierte Version kann man in der Shell/Kommandozeile prüfen:
 ```bash
