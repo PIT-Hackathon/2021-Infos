@@ -17,7 +17,7 @@ Developer Experience: [Python](https://www.python.org/).
 ## Vorbereitung
 Um Euch für das Code Camp vorzubereiten, installiert Euch die Programmierumgebung samt Editor/IDE eurer Wahl. 
 Ihr habt so etwas nicht und/oder wollt etwas neues? Installiert euch [Python](https://www.python.org/downloads/windows/) 
-und die [Community Edition von PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) und macht Euch damit vertraut. 
+und die [Community Edition von PyCharm](https://www.jetbrains.com/pycharm/download/) und macht Euch damit vertraut. 
 
 ## Herausforderungen
 Deine eigene Karte mit Deinen Informationen.
