@@ -1,6 +1,6 @@
 # Code Camp
 Ihr möchtet Eure Coding Skills verbessern? Coden wie die Profis? Kommt ins
-Code Camp. Zusammen mit euch wählen wir gezielt Challenges für Euch aus, an 
+Code Camp. Zusammen wählen wir gezielt Challenges für Euch aus, an 
 denen Ihr lernen und wachsen könnt. Dabei besprechen wir wie man mit
 sorgfältig ausgewählter Architektur, testgetriebener Entwicklung und 
 Pair Programming gut im Team arbeiten kann. 
@@ -11,7 +11,7 @@ Spass bringt, wenn man die richtigen Techniken kennt.
 ![Let's do This!][success-kid]
 
 Wenn ihr noch auf keine Programmiersprache festgelegt seid, dann geben
-wir euch den Einstieg in die Programmiersprache mit einer der besten
+wir euch einen Einstieg in die Programmiersprache mit einer der besten
 Developer Experience: [Python](https://www.python.org/). 
 
 ## Vorbereitung
