@@ -6,7 +6,7 @@
 ### Wer noch gar keine Programmiererfahrung hat
 Wenn du noch nie programmiert hast, aber trotzdem in einfach in die Spielprogrammierung einsteigen möchtest, dann ist hier die richtige Seite für dich. Hier kannst du erste kleine Spiele visuell mit Blöcken programmieren und so die Grundlagen der Programmierung spielen lernen.
 
-[arcade.com}(https://arcade.makecode.com/)
+[arcade.com](https://arcade.makecode.com/)
 
 #### Unity
 Wir verwenden auf dem Hackathon die Unity Game Engine (darauf verstehen sich die meisten Mentoren). Wenn ihr selbst noch keine Erfahrungen im Umgang mit Unity habt, dann könnt ihr euch mit diesem Kurs in die Grundlagen der Spieleprogrammierung mit Unity einarbeiten.
