@@ -43,7 +43,7 @@ Softwareentwicklung ist eine Teamleistung. Darum ist es notwendig, sich damit ve
   * [Unity Tools] von Tobiah Zarlez
   
 ### Unity Template Projekt von GitHub clonen
-* Template Projekt auf GitHub : [PIT-Template-Projekt](https://github.com/BernhardRubow/PIT-Tempate-Project)
+* Template Projekt auf GitHub : [PIT-Template-Projekt](https://github.com/PIT-Hackathon/PIT_2021_UnityTemplate)
   
 ---
 
