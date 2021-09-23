@@ -34,7 +34,7 @@ Softwareentwicklung ist eine Teamleistung. Darum ist es notwendig, sich damit ve
 * Ver Beginn des Hackathons einen Trello Account anlegen. [Trello](https://trello.com)
 
 ### Installation von Software
-* Unity LTS-Version 2020.3.19f1 tallieren: [Download](https://unity3d.com/unity/qa/lts-releases)
+* Unity LTS-Version 2020.3.19f1 installieren: [Download](https://unity3d.com/unity/qa/lts-releases)
 * Git installieren: [[Download]](https://git-scm.com/)
 * Visual Studio Code installieren: [[Download]](https://code.visualstudio.com/)
 * In Visual Studio Code folgende Plugins installieren
